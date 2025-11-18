@@ -1,7 +1,8 @@
 {
     "version": "14.2.20",
-    "settingsVersion": "14.2",
+    "settingsVersion": "14.29",
     "level": "Pro",
+    "sentenceWordOrder":"S-V-IO-O",
     "dropoffRate": {
         "radioID": "equiprobable"
     },

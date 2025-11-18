@@ -3,6 +3,8 @@
     "settingsVersion": "14.29",
     "level": "Pro",
     "sentenceWordOrder":"S-V-IO-O",
+    "sentenceWordOrder":"S-V-IO-O",
+
     "dropoffRate": {
         "radioID": "mediumDrop"
     },
@@ -142,37 +144,37 @@
         "value": ""
     },
     "wordInitialConsonants": {
-        "value": "d k n h m b g s gw p ð r̥ t r tr v ɬ θ l bl w dr j pr ʃ χ dw gwl gwn gwr kl nt n̥ pl rn sd sn θj"
+        "value": "b d f g h j k kʰ l m n ʀ s sh t th z"
     },
     "midWordConsonants": {
-        "value": "n r d ð ɬ v b m mr ŋ dr g h ml sg vn ðj χ dl gl gw l ms nr̥ nt nw rb rd rv rw rɬ tbl vj vl θ χr"
+        "value": "b bb bl bm d dd dg dn dsh g gl gz h hf k kʰ kz kʰʀ l lb lg lkʰ m mʀ n nb nd nk ʀ ʀb ʀd ʀg ʀm ʀs ʀz ʀtʰ ʀbr s sn shm t tʰ z zb zd ɣ ʃ"
     },
     "wordFinalConsonants": {
-        "value": "n d r s l ð g v ɬ θ m b nt t ŋ χ k ld nd rs rθ sg vn vr"
+        "value": "d g gn k kʰ l ls m n nn nd nt r rb rg rk s sn tn z zd zr"
     },
     "illegalCombinations": {
-        "value": "ji ʃi ʃɪ"
+        "value": ""
     },
     "bwsVowels": {
-        "value": "a ɛ ɔ ə ɨ ɨː ai̯ iː ɪ eː oː ʊ aɨ̯ aː ei̯ ɪu̯ au̯ eɨ̯ ɨ i u ʊɨ̯ uː ɛu̯ ɔi̯ əu̯ ɔɨ̯ ɨu̯"
+        "value": "a aː e eː i iː o oː u uː"
     },
     "bws2ndVowels": {
         "value": ""
     },
     "phonemeClasses": {
-        "value": "C = b k p r s v w q g\nV = a e i o u\nS = CV CVC V VC"
+        "value": "C = b k p r s v w q g\nL = l m n\nV = a e i o u\nA = ion lar mel\nS = CV CVC CVCC"
     },
     "wordPatterns": {
-        "value": "S\nSS\nSSS\n\npronoun = \nV\nS\n\ndeterminer = \nV\nS"
+        "value": "S\nSS\nSSS\nSSSS\nCVCVC\nVCCVC\n\npronoun = \nV\nS\n\ndeterminer = \nV\nS"
     },
     "affixPatterns": {
         "value": "-VC\nCLa-\nCa-"
     },
     "maxOnset": {
-        "value": ""
+        "value": "1"
     },
     "maxCoda": {
-        "value": ""
+        "value": "0"
     },
     "vowelStartProb": {
         "value": ""
@@ -181,10 +183,10 @@
         "value": ""
     },
     "vowelTones": {
-        "value": "˧ ˥ ˧˥ ˨˩˦ ˥˩"
+        "value": ""
     },
     "spellingRules": {
-        "value": "f > ph\nv > f\nk > c\nŋ > ng\nχ > ch\nθ > th\nr̥ > rh\nɬ > ll\nð > dd\nɪu > iw\nɨu > uw\nʊɨ > wy\nɛu > ew\nɔi > oi\nəu > yw\neɨ > ey\naː > a\nɔ > o\noː > o\niː > i\nɪ > i\neː > e\nɛ > e\nuː > w\nʊ > w\nj > i\nɨː > y\nɨ > y\nə > y\nʃ > si\nn̥ > n\n◌̯ >"
+        "value": "aː > â\neː > ê\niː > î\noː > ô\nuː > û\nɣ > gh\nʃ > sh\ntʰ > th\nʀ > r\nkʰ > kh"
     },
     "customAlphabetOrder": {
         "value": ""
