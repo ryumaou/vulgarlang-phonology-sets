@@ -1,6 +1,6 @@
 {
-    "version": "10.4.2",
-    "settingsVersion": "10.4",
+    "version": "14.2.20",
+    "settingsVersion": "14.2",
     "level": "Pro",
     "dropoffRate": {
         "radioID": "mediumDrop"

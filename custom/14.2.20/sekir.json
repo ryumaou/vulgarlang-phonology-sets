@@ -1,6 +1,6 @@
 {
-    "version": "10.4.2",
-    "settingsVersion": "10.4",
+    "version": "14.2.20",
+    "settingsVersion": "14.2",
     "level": "Pro",
     "dropoffRate": {
         "radioID": "mediumDrop"
@@ -201,7 +201,7 @@
         "value": ""
     },
     "derivationalAffixes": {
-        "value": "ADVERB = Random\nQUALITY.OF.BEING = Random\nTO.MAKE = Random\nHAVING.QUALITY.OF = Random\nRELATING.TO = Random\nNOUN.TO.VERB = Random\nRESULT.OF.DOING = Random\nTENDING.TO = Random\nACT.OF = Random\nPRODUCT.OF = Random\nDOER = Random\nPLACE.OF = Random\nDIM = Random\nAUG = Random\nOPPOSITE = IF [ksx]# THEN -e̞m IF [nqɹ]# THEN -am IF [td]ˤ# THEN -aʕm IF [je̞ia(aʊ)(aʕ)]# THEN -m IF [mh]# THEN -me̞ ELSE Random"
+        "value": "ADVERB = Random\nNOUN.TO.VERB = Random\nTENDING.TO = Random\nQUALITY.OF.BEING = Random\nTO.MAKE = Random\nHAVING.QUALITY.OF = Random\nRELATING.TO = Random\nNOUN.TO.VERB = Random\nRESULT.OF.DOING = Random\nTENDING.TO = Random\nACT.OF = Random\nPRODUCT.OF = Random\nDOER = Random\nPLACE.OF = Random\nDIM = Random\nAUG = Random\nOPPOSITE = IF [ksx]# THEN -e̞m IF [nqɹ]# THEN -am IF [td]ˤ# THEN -aʕm IF [je̞ia(aʊ)(aʕ)]# THEN -m IF [mh]# THEN -me̞ ELSE Random"
     },
     "POSmorphology": {
         "value": "nm = -o\nnf = -a\nv = -ar"
